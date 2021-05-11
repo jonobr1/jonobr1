@@ -1,1 +1,6 @@
-![jonobr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonobr1&hide=issues&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonobr1&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonobr1&langs_count=3&hide_title=true&hide_border=true" />
+</a>
