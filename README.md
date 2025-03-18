@@ -1,1 +1,1 @@
-![jonobr1's Stats](https://github-readme-stats.vercel.app/api?username=jonobr1&theme=default&show_icons=true&hide_border=false&count_private=true)
+![jonobr1's Stats](./profile-3d-contrib/profile-green-animate.svg)
